@@ -1,0 +1,5 @@
+node_modules
+lloy.txt
+dist
+supabase_setup.txt
+.env
